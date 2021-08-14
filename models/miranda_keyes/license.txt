@@ -1,0 +1,11 @@
+Model Information:
+* title:	Miranda Keyes
+* source:	https://sketchfab.com/3d-models/miranda-keyes-474a8e4632864dab93e604db811d989c
+* author:	JustinBailey (https://sketchfab.com/JustinBailey)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Miranda Keyes" (https://sketchfab.com/3d-models/miranda-keyes-474a8e4632864dab93e604db811d989c) by JustinBailey (https://sketchfab.com/JustinBailey) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
